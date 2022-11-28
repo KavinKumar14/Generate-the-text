@@ -1,1 +1,2 @@
 # Generate-the-text
+Text generation involves generating text using machine learning techniques. The purpose of text generation is to automatically generate text that is indistinguishable from a text written by a human. If you want to learn how to generate text with Python, this article is for you. In this article, I will walk you through how to use the popular GPT-2 text generation model to generate text using Python.
